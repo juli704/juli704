@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  I'm Julian, a software developer with a strong focus on creating efficient and robust backend applications.
+  I'm Julian, a computer scientist and software developer with a strong focus on creating efficient and robust backend applications.
   My expertise lies in languages such as C/C++, C#, Python and JavaScript, and I am constantly seeking out new technologies to enhance my skills.
   I have a knack for designing lean architectures and enjoy collaborating to deliver high-quality software solutions.
   Let's connect and work on awesome projects together! 🚀 #BackendDeveloper #SoftwareEngineering #CodingPassion 👨‍💻
@@ -16,7 +16,7 @@
 ###
 
 <p align="left">
-  ✨ Crafting code since 2016<br>
+  ✨ I studied computer science at the University of Applied Sciences Aachen, Germany<br>
   📚 Currently learning Go, React & Express<br>
   🎯 Looking forward to studying ML/AI algorithms<br>
 </p>
