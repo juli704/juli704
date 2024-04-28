@@ -1,9 +1,5 @@
-<h1 align="left">Hey!</h1>
-
-###
-
-<p align="left">  
-  I'm Julian, a software developer with a focus on creating applications written in C/C++, C#, Python and JavaScript.
+<p align="left">
+  Hi there, I'm Julian Schultheiß - a software developer with a focus on creating applications written in C/C++, C#, Python and JavaScript.
   I'm currently learning Go, React, Express and am looking forward to studying ML/AI algorithms.
 </p>
 
