@@ -1,26 +1,10 @@
-<h1 align="left">Hey there! 👋</h1>
+<h1 align="left">Hey!</h1>
 
 ###
 
-<p align="left">
-  I'm Julian, a computer scientist and software developer with a strong focus on creating efficient and robust backend applications.
-  My expertise lies in languages such as C/C++, C#, Python and JavaScript, and I am constantly seeking out new technologies to enhance my skills.
-  I have a knack for designing lean architectures and enjoy collaborating to deliver high-quality software solutions.
-  Let's connect and work on awesome projects together! 🚀 #BackendDeveloper #SoftwareEngineering #CodingPassion 👨‍💻
-
-  LinkedIn: www.linkedin.com/in/julian-schultheiß-a3b4a2306
-</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-  ✨ I studied computer science at the University of Applied Sciences Aachen, Germany<br>
-  📚 Currently learning Go, React & Express<br>
-  🎯 Looking forward to studying ML/AI algorithms<br>
+<p align="left">  
+  I'm Julian, a software developer with a focus on creating applications written in C/C++, C#, Python and JavaScript.
+  I'm currently learning Go, React, Express and am looking forward to studying ML/AI algorithms.
 </p>
 
 ###
